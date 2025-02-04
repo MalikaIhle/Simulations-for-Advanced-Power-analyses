@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schönbrodt"
+  given-names: "Felix"
+  orcid: "https://orcid.org/0000-0002-8282-3910"
+- family-names: "Fischer"
+  given-names: "Moritz"
+- family-names: "Ihle"
+  given-names: "Malika"
+  orcid: "https://orcid.org/0000-0002-3242-5981"
+title: "Simulations for Advanced Power Analyses"
+version: 1.0.0
+doi: 
+date-released: 2025-01-20
+repository-code: "https://github.com/lmu-osc/Simulations-for-Advanced-Power-Analyses"
+url: "https://lmu-osc.github.io/Simulations-for-Advanced-Power-Analyses/"
