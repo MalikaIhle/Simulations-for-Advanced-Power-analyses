@@ -6,9 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-8282-3910"
 - family-names: "Fischer"
   given-names: "Moritz"
-- family-names: "Ihle"
-  given-names: "Malika"
-  orcid: "https://orcid.org/0000-0002-3242-5981"
 title: "Simulations for Advanced Power Analyses"
 version: 1.0.0
 doi: 
